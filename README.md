@@ -23,3 +23,5 @@ This is a simple single-page gym website built using **HTML5**, **CSS3**, and **
 - **Services**: Lists services offered by the gym like Personal Training and Group Classes, along with images.
 - **Membership Plans**: Displays different membership plans (Basic and Premium) with pricing and associated images.
 - **Footer**: Simple footer with copyright information.
+
+git clone https://himanshush24.github.io/gym-website/
